@@ -1,0 +1,17 @@
+{
+    "name": "mfrc522-ntag213",
+    "version": "1.0.0",
+    "description": "MakeCode extension for MFRC522 with NTAG213 support.",
+    "license": "MIT",
+    "dependencies": {},
+    "files": [
+        "main.ts"
+    ],
+    "targetVersions": {
+        "microbit": "*"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
